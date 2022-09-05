@@ -6,13 +6,8 @@ import UserItem from './UserItem';
 function UserResults() {
     const {
       users,
-      loading,
-      fetchUsers
+      loading
     } = useContext(GithubContext);
-
-    useEffect(() =>{
-        fetchUsers();
-    },[])
 
 
   if(!loading) {
