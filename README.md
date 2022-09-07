@@ -1,7 +1,7 @@
 # Github Finder React App with Tailwind Css
 
-I will add image for web interfaces
-![alt text]()
+//I will add image for web interfaces
+![alt text](https://raw.githubusercontent.com/sezersinanoglu/github-finder-tailwindCss/main/project_screen.jpg)
 
 And also Thanks @BradTraversy
 Open [https://github.com/bradtraversy]
